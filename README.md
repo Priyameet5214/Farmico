@@ -1,3 +1,3 @@
 Agriculture suppy chain management.
 
-//currently under construction.
+// code only for evaluation cannot download and run yet
